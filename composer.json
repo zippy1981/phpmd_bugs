@@ -1,0 +1,15 @@
+{
+    "name": "zippy1981/phpmd_bugs",
+    "description": "Bugs I found in PHPMD",
+    "require-dev": {
+        "phpmd/phpmd": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Justin Dearing",
+            "email": "jdearing@pica9.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
